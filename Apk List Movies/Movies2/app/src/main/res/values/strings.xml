@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Movies</string>
+
+    <string name="logo">LogoApp</string>
+    <string name="title_activity_detail_movies">Detail Movies</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="broadcast">Broadcast</string>
+    <string name="description_player">Deskripsi Film</string>
+    <string name="pemain">Pemain</string>
+    <string name="list_player">Daftar Pemain</string>
+    <string name="home">Movies</string>
+    <string name="favorite">Favorite</string>
+    <string name="tvshow">TvShow</string>
+    <string name="menu_tvshow">tvshow</string>
+    <string name="last_seen">Terakhir dilihat</string>
+    <string name="message_undo">Batalkan menghapus item sebelumnya?</string>
+    <string name="message_ok">OK</string>
+    <string name="broadcast_date">Broadcast %s</string>
+</resources>
